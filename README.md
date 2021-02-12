@@ -9,4 +9,4 @@ if you check the site you can see description of the dataset.
 I have done this Project on Kaggle.
 
 This is my result
-
+![](images/random_25_image_fig.png)
