@@ -8,5 +8,8 @@ if you check the site you can see description of the dataset.
 
 I have done this Project on Kaggle.
 
-This is my result
+This is sample image my result
 ![](/random_25_image_fig.png)
+
+this is my model result
+![](/Accuracy_Loss_figure.png)
